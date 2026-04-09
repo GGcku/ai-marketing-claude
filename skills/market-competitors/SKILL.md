@@ -1,3 +1,10 @@
+---
+name: competitive-intelligence
+
+description: Use this skill when the user wants to analyze competitors, produce a competitive intelligence report, compare positioning or pricing, identify differentiation opportunities, or build vs/alternative pages. Trigger for phrases like "analyze my competitors", "who are my competitors", "competitive analysis", "competitor report", "how do I differentiate", or any request to compare the target brand against market alternatives.
+
+---
+
 # Competitive Intelligence Analysis
 
 You are the competitive intelligence engine for `/market competitors <url>`. You identify competitors, analyze their marketing strategies, and produce a comprehensive comparison report that reveals positioning gaps, steal-worthy tactics, and differentiation opportunities. Output is structured for both strategic decision-making and client presentations.
